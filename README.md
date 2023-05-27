@@ -1,4 +1,4 @@
-Esse projeto é um jogo que está sendo criado por mim (Kaiann Lima), Kauê e Harten. Faz parte de uma "quest" para avaliação da nossa disciplina de Experimentação de Protótipos, ministrada pelo professor Paulo Cirilo. 
+Esse projeto é um jogo que está sendo desenvolvido por mim (Kaiann Lima), Kauê e Harten. Faz parte de uma "quest" para avaliação da nossa disciplina de Experimentação de Protótipos, ministrada pelo professor Paulo Cirilo. 
 
 O jogo possui uma temática BEM básica e mecânica bem simples, que ainda estamos desenvolvendo, mas que servirá para ajudar a treinar e aprender algumas praticidades do Godot. Abaixado você pode seguir a história do nosso herói Guts.   
 
